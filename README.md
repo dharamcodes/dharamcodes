@@ -25,7 +25,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India :india:.
 - :telescope: I’m working as a Tech Lead, contributing to Estimate, Design, Develop, Review and Deploy backend for highly scalable enterprise system.
 
@@ -56,27 +56,16 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
-### :fire: My Streak :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dharamadev&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!-- --- -->
-
-<!-- ### :writing_hand: Blog Posts : -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-**TECHNICAL SKILLS
-Languages & Frameworks:** Java, Python, SQL, Bash, Spring Boot, Hibernate, JUnit, Mockito
+***TECHNICAL SKILLS*** \
+**Languages & Frameworks:** Java, Python, SQL, Bash, Spring Boot, Hibernate, JUnit, Mockito
 **Architecture:** Microservices, Event-Driven Architecture, CQRS, Saga Pattern, Circuit Breaker Pattern
 **Cloud & Infra:** AWS (EC2, S3, SQS, Lambda, ECS), Kafka, PostgreSQL, MongoDB, Redis, Elasticsearch
 **Tools & Techs:** Docker, Kubernetes, Jenkins, Git, GitHub, REST, Gradle, gRPC, OAuth2, JWT
 **Observability:** Prometheus, Grafana, ELK Stack, Splunk, Zipkin
 **Practices:** System Design (HLD/LLD), Performance Tuning, Capacity Planning, Agile/Scrum
 
-**PROFESSIONAL EXPERIENCE
-Senior Software Engineer** — Luxoft (DXC Technology) Jul 2024 – Present
+***PROFESSIONAL EXPERIENCE*** \
+**Senior Software Engineer** — Luxoft (DXC Technology) Jul 2024 – Present
 
 - Designed scalable **distributed systems** using **Spring Boot microservices** sustaining **1,500+ TPS**.
 - Built Leader-Worker pattern using **Kafka pipelines** processing **2M+ msgs/day** in event-driven workflows.
@@ -121,3 +110,11 @@ Senior Software Engineer** — Luxoft (DXC Technology) Jul 2024 – Present
 - Improved legacy **Java** application performance by **30%** via refactoring and ensured **100% SLA compliance** across
     production environments.
 
+***PROJECTS*** \
+**smc4j** – Open-source Java 17 library for Smart Money Concepts in algorithmic trading. GitHub
+**tradesmc-api** – Spring Boot trading API with SMC strategies, real-time data, and backtesting. GitHub
+
+***EDUCATION*** \
+**PhD (Part-Time)** , Computer Science, NIT Nagpur 2025 – Present
+**PGDAC** , CDAC Hyderabad 2016 – 2017
+**B.Tech** , BBD University 2011 – 2015
