@@ -38,8 +38,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### How to reach me: 
 
 - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharamadev)
-- :envelope: dharmendrakawasthi@gmail.com
-- :page_with_curl: <a href="https://drive.google.com/uc?id=1-hm_0fqO2Ni2U9HpSbODry5gdFXQgr6n&export=download">Download Resume</a>
+- :envelope: er.dharamk@gmail.com
+- :page_with_curl: [Resume_Dharmendra.pdf](https://github.com/user-attachments/files/26638393/Resume_Dharmendra.pdf)
+
 
 
 ---
@@ -60,13 +61,63 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Streak :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dharamadev&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### :fire: Programing Language Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharamadev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!-- --- -->
 
 <!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+**TECHNICAL SKILLS
+Languages & Frameworks:** Java, Python, SQL, Bash, Spring Boot, Hibernate, JUnit, Mockito
+**Architecture:** Microservices, Event-Driven Architecture, CQRS, Saga Pattern, Circuit Breaker Pattern
+**Cloud & Infra:** AWS (EC2, S3, SQS, Lambda, ECS), Kafka, PostgreSQL, MongoDB, Redis, Elasticsearch
+**Tools & Techs:** Docker, Kubernetes, Jenkins, Git, GitHub, REST, Gradle, gRPC, OAuth2, JWT
+**Observability:** Prometheus, Grafana, ELK Stack, Splunk, Zipkin
+**Practices:** System Design (HLD/LLD), Performance Tuning, Capacity Planning, Agile/Scrum
+
+**PROFESSIONAL EXPERIENCE
+Senior Software Engineer** — Luxoft (DXC Technology) Jul 2024 – Present
+
+- Designed scalable **distributed systems** using **Spring Boot microservices** sustaining **1,500+ TPS**.
+- Built Leader-Worker pattern using **Kafka pipelines** processing **2M+ msgs/day** in event-driven workflows.
+- Owned end-to-end **HLD/LLD** for features, including failure-mode analysis and CI/CD quality gates.
+- Integrated **Generative AI (LLMs)** into content verification, reducing manual review by **30%**.
+- Engineered concurrency-safe services with circuit breakers, ensuring scalability and **99.95%** uptime.
+- Mentored **2 engineers** on system design, Kafka patterns, and production readiness for project ramp-up.
+
+**Lead Engineer** — Ness Digital Engineering May 2023 – May 2024
+
+- Delivered a greenfield project from inception using **Java, Spring Boot, Spring Cloud, and Microservices**.
+- Led a team of **3 engineers** through code reviews, design reviews, and sprint planning.
+- Reduced API latency by **2x** using **Redis** caching and concurrent processing.
+- Designed a runtime **feature toggle** system, cutting deployment time by **60%**.
+- Collaborated with cross-functional stakeholders to define technical roadmap and delivery milestones.
+
+**Senior Software Engineer II** — Airtel Africa Feb 2022 – May 2023
+
+- Built scalable **microservices** using **Java and Spring Boot** for telecom billing serving **10M+ users**.
+- Delivered a reusable, high-throughput **Customer Query Management** platform.
+- Reduced code duplication using **data structures, algorithms, and design patterns** , improving maintainability.
+- Achieved **95% test coverage** via TDD and **SonarQube** ; standardized **OpenAPI/Swagger** across services.
+
+**Senior Software Engineer** — Aristocrat (B2B Gaming) Jul 2021 – Feb 2022
+
+- Optimized backend **Java microservices** for Class 2 and Class 3 gaming systems.
+- Engineered **event sourcing** for user history, improving data accuracy and auditability.
+- Improved API scalability with async processing, reducing peak-load latency by **35%**.
+
+**Member of Technical Staff** — Oracle Jan 2021 – Jul 2021
+
+- Developed **TMF-compliant REST APIs** in Java/Spring Boot, improving workflow efficiency by **40%**.
+- Implemented **Redis caching** , **Testcontainers** , and pagination, cutting latency from 800ms to< **200ms**.
+
+**Development Consultant** — CSG International Sep 2018 – Nov 2020
+
+- Developed **Java backend services** and **REST APIs** for billing and CRM integration.
+- Built reusable UI component library adopted by 3 teams, accelerating delivery by **25%**.
+
+**System Analyst** — Amdocs Feb 2017 – Sep 2018
+
+- Improved legacy **Java** application performance by **30%** via refactoring and ensured **100% SLA compliance** across
+    production environments.
 
