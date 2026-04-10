@@ -111,10 +111,10 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     production environments.
 
 ***PROJECTS*** \
-**smc4j** – Open-source Java 17 library for Smart Money Concepts in algorithmic trading. GitHub
-**tradesmc-api** – Spring Boot trading API with SMC strategies, real-time data, and backtesting. GitHub
+**smc4j** – Open-source Java 17 library for Smart Money Concepts in algorithmic trading. \
+**tradesmc-api** – Spring Boot trading API with SMC strategies, real-time data, and backtesting.
 
 ***EDUCATION*** \
-**PhD (Part-Time)** , Computer Science, NIT Nagpur 2025 – Present
-**PGDAC** , CDAC Hyderabad 2016 – 2017
-**B.Tech** , BBD University 2011 – 2015
+**PhD (Part-Time)** , Computer Science, NIT Nagpur               2025 – Present \
+**PGDAC** , CDAC Hyderabad                                       2016 – 2017 \
+**B.Tech** , BBD University                                      2011 – 2015 
